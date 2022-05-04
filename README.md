@@ -1,3 +1,3 @@
-# COVID19
+# COVID
 
 In-depth analysis with COVID datasets.
